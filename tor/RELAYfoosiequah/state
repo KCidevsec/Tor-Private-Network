@@ -1,0 +1,29 @@
+# Tor state file last generated on 2017-01-26 01:21:07 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard DAmoohuaphoy 6C331B238DFA3ADADFE3C324CF2B33C152C2238C DirCache
+EntryGuardDownSince 2017-01-26 01:03:37 2017-01-26 01:03:37
+EntryGuardAddedBy 6C331B238DFA3ADADFE3C324CF2B33C152C2238C 0.2.9.0-alpha-dev 2017-01-17 12:30:56
+EntryGuardPathBias 4.000000 4.000000 4.000000 0.000000 0.000000 0.000000
+BWHistoryReadEnds 2017-01-26 04:57:33
+BWHistoryReadInterval 14400
+BWHistoryReadValues 4448256
+BWHistoryReadMaxima 212992
+BWHistoryWriteEnds 2017-01-26 04:57:33
+BWHistoryWriteInterval 14400
+BWHistoryWriteValues 4442112
+BWHistoryWriteMaxima 212992
+BWHistoryDirReadEnds 2017-01-26 04:57:33
+BWHistoryDirReadInterval 14400
+BWHistoryDirReadValues 73728
+BWHistoryDirReadMaxima 2048
+BWHistoryDirWriteEnds 2017-01-26 04:57:33
+BWHistoryDirWriteInterval 14400
+BWHistoryDirWriteValues 2048
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastRotatedOnionKey 2017-01-26 00:57:33
+LastWritten 2017-01-26 01:21:07
+TotalBuildTimes 20
+CircuitBuildTimeBin 25 20

@@ -1,0 +1,16 @@
+# Tor state file last generated on 2017-01-26 01:16:19 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard RELAYfoosiequah A40D9720DFA658567BCFA218595ADDE04A7A0917 DirCache
+EntryGuardDownSince 2017-01-26 01:15:16 2017-01-26 01:15:17
+EntryGuardAddedBy A40D9720DFA658567BCFA218595ADDE04A7A0917 0.2.9.0-alpha-dev 2017-01-20 01:02:49
+EntryGuardPathBias 12.000000 12.000000 12.000000 0.000000 0.000000 0.000000
+EntryGuard EXITezahxahcho 62754541810784DC0C8B8BECDC61F3D028F2AEDE DirCache
+EntryGuardDownSince 2017-01-26 01:15:16 2017-01-26 01:15:17
+EntryGuardAddedBy 62754541810784DC0C8B8BECDC61F3D028F2AEDE 0.2.9.0-alpha-dev 2017-01-23 11:47:40
+EntryGuardPathBias 4.000000 4.000000 3.000000 1.000000 0.000000 0.000000
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastWritten 2017-01-26 01:16:19
+TotalBuildTimes 16
+CircuitBuildTimeBin 25 16

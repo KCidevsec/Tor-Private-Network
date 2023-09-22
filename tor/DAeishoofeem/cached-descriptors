@@ -1,0 +1,51 @@
+router DAeishoofeem 172.18.0.5 7000 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABk6SAQpm+d/KBi3ek319i11TQPbntHntPbSgqkS6JByAehvQAQAgBABt60JA
+SGurdOa8Fzjy+MTxLLLQP828CQBfkH1GHIHxhoeKjhLHv7vprLAsBm1priWZkkxs
+KFYdA6//a4wp6mYOYNPhpMdk6hwlTSBpnJ51K4+px4SkNubP6rh7AL1SkQI=
+-----END ED25519 CERT-----
+master-key-ed25519 betCQEhrq3TmvBc48vjE8Syy0D/NvAkAX5B9RhyB8YY
+platform Tor 0.2.9.0-alpha-dev on Linux
+protocols Link 1 2 Circuit 1
+published 2017-01-26 01:26:20
+fingerprint 84A2 5945 91E4 45BA 645E 448F 65FC 9914 788C A0EC
+uptime 0
+bandwidth 1073741824 1073741824 0
+extra-info-digest 6C3A44EAD12F3293AA009BC9DE4D64872A39E467 7hoC9G7nlfjMvbOb3WogIGJgRRUW/weBhNjG7LrJBW0
+caches-extra-info
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAM82zbMb3JQpRmyBaHtkKWezLNT5RQs5ykBrcwpbTNB+hNMXFIqHrJxb
+761Vxs1j5dHrIdafkox8wM6FcRyYkJq1uncJdocLvVSs88VGWns6XsA1fJ4+Fa84
+HKYb/FWaoDG1FMAkcgYmwNIaH0+j8ROeJcq7pBQLGCJRsRIvcLL1AgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAK+0R6A77PBvZM5N0ooYfrBwKyCcUIfq87mm4j9BDaw5Uy06ASBc6WQW
+tGtmvoFCnhEiB2HMUYH1/zrrL817+Dyp7oERXUAg5KI1W8i6B+I+EnIFm+p46Df/
+LNdfn77LOvcegEt9ktW1VdhHMsj0/qKWH7e5o6cuFH6TJxeDFCRNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+ljw8JPOaHqwPSbLm+d1DWCcdVrHquFpL8uEx4j9tP4fhmxwtk2pRoloYY7/mlX8i
+hkA8geOdyTQXc7PazIAlHNEo8Kfg6qPXkRYKGhpZRTiqCFRhLmDHGYzHM/WYfXpq
+VCU6HPvEEd6YK/NavL7eSOSmPjuT58xyI5Mv61FjpTs=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABkxqAW3rQkBIa6t05rwXOPL4xPEsstA/zbwJAF+QfUYcgfGGAOYqA54AgC5G
+7J+cpL3xcc55e3DLWnNjR2l6Vq5/HNqVpm8oYLi0ykVS2xsOwDadLGWp2E7+3yzF
+0xNLM0WIGQQ=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key w5WRgZnUggzPHIbjJEbMvgt8n/BSnjnkxKTy8tjiEFw=
+accept *:*
+tunnelled-dir-server
+router-sig-ed25519 LQ4F91Dj1fOQRi0XpNNVaE2ki/oshNPJv2a8CttPS+J1d5HGz2HgY/7V0EIjpg9TBISUu6/ytnI9FMCi+pj0Bw
+router-signature
+-----BEGIN SIGNATURE-----
+Xh7zLU5V7MjgTxldSf6IzuobbIoNbcuujercB/HKS8g8jK7P1Wg4QjA6zmOMS25U
+8K9NtAyzBbMjnVxyRCEfQhEtlpXsxUa577/gg3VvXxOIVXZiySJ7U+UHmlAryUPZ
+2kEA1MmjJh6wwu7a9b0ysbuL54R3FJOsibhxyBL0tmo=
+-----END SIGNATURE-----

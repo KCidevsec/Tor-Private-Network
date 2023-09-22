@@ -1,0 +1,33 @@
+# Tor state file last generated on 2017-01-26 01:21:07 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard DAkahgecahbu 380688C84500F9BF8C181E23F934929B0BBE40A4 DirCache
+EntryGuardDownSince 2017-01-26 01:15:14 2017-01-26 01:15:14
+EntryGuardAddedBy 380688C84500F9BF8C181E23F934929B0BBE40A4 0.2.9.0-alpha-dev 2017-01-24 23:11:02
+EntryGuardPathBias 3.000000 3.000000 3.000000 0.000000 0.000000 0.000000
+EntryGuard EXITezahxahcho 62754541810784DC0C8B8BECDC61F3D028F2AEDE DirCache
+EntryGuardDownSince 2017-01-26 01:15:15 2017-01-26 01:15:16
+EntryGuardAddedBy 62754541810784DC0C8B8BECDC61F3D028F2AEDE 0.2.9.0-alpha-dev 2017-01-17 06:12:42
+EntryGuardPathBias 3.000000 3.000000 0.000000 3.000000 0.000000 0.000000
+BWHistoryReadEnds 2017-01-26 05:08:31
+BWHistoryReadInterval 14400
+BWHistoryReadValues 669696
+BWHistoryReadMaxima 53248
+BWHistoryWriteEnds 2017-01-26 05:08:31
+BWHistoryWriteInterval 14400
+BWHistoryWriteValues 659456
+BWHistoryWriteMaxima 53248
+BWHistoryDirReadEnds 2017-01-26 05:08:31
+BWHistoryDirReadInterval 14400
+BWHistoryDirReadValues 29696
+BWHistoryDirReadMaxima 2048
+BWHistoryDirWriteEnds 2017-01-26 05:08:31
+BWHistoryDirWriteInterval 14400
+BWHistoryDirWriteValues 0
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastRotatedOnionKey 2017-01-26 01:08:32
+LastWritten 2017-01-26 01:21:07
+TotalBuildTimes 10
+CircuitBuildTimeBin 25 10

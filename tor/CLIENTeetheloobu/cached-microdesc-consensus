@@ -1,0 +1,72 @@
+network-status-version 3 microdesc
+vote-status consensus
+consensus-method 23
+valid-after 2017-01-26 01:05:00
+fresh-until 2017-01-26 01:10:00
+valid-until 2017-01-26 01:15:00
+voting-delay 5 5
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir NoEdConsensus Running Stable V2Dir Valid
+dir-source DAkahgecahbu 4CA67A98A2C56CA60C6E9753D9161E84F537D3F0 172.18.0.5 172.18.0.5 9030 7000
+contact (none)
+vote-digest 49AD27A6000444B7AF9113B67FCDCE924B69C79C
+dir-source DAiefaimieba 73FFA6D9DF7D1A5A4D8C2AC2BC811433CEA7AF1C 172.18.0.4 172.18.0.4 9030 7000
+contact (none)
+vote-digest 8BA9B832E647C3639F801EF9491C59F7F0FFF2F1
+dir-source DAmoohuaphoy C599141EB1F46B8D02293BD5A40FCA6885FECF06 172.18.0.2 172.18.0.2 9030 7000
+contact (none)
+vote-digest CCCFA1DAF69559730DED5F88B9B38A5B0E404088
+r DAkahgecahbu OAaIyEUA+b+MGB4j+TSSmwu+QKQ 2017-01-26 00:57:36 172.18.0.5 7000 9030
+m xD1PQcZjbO0+OnJDxn47QZIYq74sZRq7edhdBE6hfhA
+s Authority Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.2.9.0-alpha-dev
+w Bandwidth=0 Unmeasured=1
+r DAiefaimieba QI3oNZy0p3MOAI8n0NfWZS4EgqY 2017-01-26 00:57:36 172.18.0.4 7000 9030
+m BRerGMdlXPmxkLHUZQpPkKNVzzK9EXXyBXCPEEJqpCU
+s Authority Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.2.9.0-alpha-dev
+w Bandwidth=0 Unmeasured=1
+r EXITezahxahcho YnVFQYEHhNwMi4vs3GHz0Cjyrt4 2017-01-26 00:57:34 172.18.0.8 7000 9030
+m 0jguJyu5Q93K9rJ3BFmSV86yLhqqecPSd3IXVUYfGfw
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.0-alpha-dev
+w Bandwidth=0 Unmeasured=1
+r DAmoohuaphoy bDMbI436Otrf48MkzyszwVLCI4w 2017-01-26 00:57:36 172.18.0.2 7000 9030
+m 8fwjlYHcs8uZcqSZKIfXqev1a4LkiRgLx1qRvf6DZ7U
+s Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.0-alpha-dev
+w Bandwidth=0 Unmeasured=1
+r RELAYfoosiequah pA2XIN+mWFZ7z6IYWVrd4Ep6CRc 2017-01-26 00:57:34 172.18.0.6 7000 9030
+m xZbiG3AfvegyESADVp0wEKmEK1F1imZThX3IFLze8lc
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.0-alpha-dev
+w Bandwidth=0 Unmeasured=1
+directory-footer
+directory-signature sha256 4CA67A98A2C56CA60C6E9753D9161E84F537D3F0 A1B4A01751564E4F53C3355B7151EC84C06ECDA7
+-----BEGIN SIGNATURE-----
+ySctENvfhVzxNUXq4qOHGlVOV7irJc0NdSL76na3xRdGiEAtYJ1VANX27zenNYvc
+AZ9O+alIHMVA7ZbTevPdHiLbuwf8XbYqOFT/SYyENtiH1y0gRcbcy7TvHbvOmMEQ
+JXB+0oIhpBZy569kZhh/mcIxMzl3He5/WJl9/ZiiE5oqKRbA01pTFNbhi49t6vBi
+MlF81PCk6EanG1YVye6YvWT0k+xuVoP9eht1oNUw4Txl4XmLhTjKHyxHbh9zIBPG
+ptQoh4uIoFmnCMfO0MTg281tgW5HzNpSIshfkNwRVACgssOuJijtAZKlGGTFY6jZ
+wK2lR9LKP9vW1jaBxbiXTg==
+-----END SIGNATURE-----
+directory-signature sha256 73FFA6D9DF7D1A5A4D8C2AC2BC811433CEA7AF1C CD19316E1583C7EAD61143EF60B371F71C8222F6
+-----BEGIN SIGNATURE-----
+WUdo63XK3kZtAKxvkDy+ThpVgu1gVHxdwSK3J34prNRNes4LC17Y9aj6EeawsGka
+mfOUANgh05RmumpqcArGPs5RWHtu6Xl4Yp9EMEK0i4ZWu9HLBgdtsTTwdy4uzRJA
+TVOs2tnw2KFNXrq4/AGOYxKq147W3OO9Dqnfmf5sPlzZhbETG73OcWOnPVhAn3cy
+4SD8V3QBgzsRGoE0wIWsEe3Ut9lFqyyMfBn48JXZnr6X+aBIq8r9jWBaJz9UleGI
+d9o5sR4sc4A+KQo2Wwbom9w2PK6QewXxp7RPWnibTeUkUTDLteesxVufFlJajv7Q
+iUxefRz96GiZKwgy0yHi0A==
+-----END SIGNATURE-----
+directory-signature sha256 C599141EB1F46B8D02293BD5A40FCA6885FECF06 52F7644A3D6B5AE61556D56D1DCBEE092344A6FB
+-----BEGIN SIGNATURE-----
+qpLr+etC+FGtB6s+vEQKRSrQGbMSIEnrTrbbh9fD3Wp/gk5cUmotApYD5YI/LpSE
+R748ta2ZX4VWM0Hirco+aFLgIW2zU9I8Q11ykij81ybXCVhqvKkM/KxB0hRkZof8
+EWLZjeXo0nFvsJiKbMygIhVRGo1UabBkrLrXx0HDn8RA/0O0VZzJg/zmAUTDpHAc
+xKEBqvROXB4b1pXNj30aoo8lNiFgW56SWiB/c5Qej3woiPrthaf5ID8upbjWPxIY
++qho+EEiVl6VeNIdztKuFidNLd7M5U6KDC+OOQSBPdMWQ+rhp0KWOpMWpzs0VGcB
+R34SZZhZtvZ8otTNHxonDQ==
+-----END SIGNATURE-----

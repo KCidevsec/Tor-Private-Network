@@ -1,0 +1,36 @@
+# Tor state file last generated on 2017-01-26 01:21:07 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard DAiefaimieba 408DE8359CB4A7730E008F27D0D7D6652E0482A6 DirCache
+EntryGuardDownSince 2017-01-26 01:15:13 2017-01-26 01:20:45
+EntryGuardAddedBy 408DE8359CB4A7730E008F27D0D7D6652E0482A6 0.2.9.0-alpha-dev 2017-01-02 04:40:09
+EntryGuardPathBias 4.000000 4.000000 4.000000 0.000000 0.000000 0.000000
+EntryGuard EXITezahxahcho 62754541810784DC0C8B8BECDC61F3D028F2AEDE DirCache
+EntryGuardDownSince 2017-01-26 01:15:14 2017-01-26 01:20:49
+EntryGuardAddedBy 62754541810784DC0C8B8BECDC61F3D028F2AEDE 0.2.9.0-alpha-dev 2016-12-29 07:11:14
+EntryGuardPathBias 3.000000 3.000000 3.000000 0.000000 0.000000 0.000000
+EntryGuard DAkahgecahbu 380688C84500F9BF8C181E23F934929B0BBE40A4 DirCache
+EntryGuardDownSince 2017-01-26 01:20:44 2017-01-26 01:20:44
+EntryGuardAddedBy 380688C84500F9BF8C181E23F934929B0BBE40A4 0.2.9.0-alpha-dev 2017-01-13 19:17:11
+BWHistoryReadEnds 2017-01-26 05:08:32
+BWHistoryReadInterval 14400
+BWHistoryReadValues 656384
+BWHistoryReadMaxima 53248
+BWHistoryWriteEnds 2017-01-26 05:08:32
+BWHistoryWriteInterval 14400
+BWHistoryWriteValues 657408
+BWHistoryWriteMaxima 53248
+BWHistoryDirReadEnds 2017-01-26 05:08:32
+BWHistoryDirReadInterval 14400
+BWHistoryDirReadValues 25600
+BWHistoryDirReadMaxima 2048
+BWHistoryDirWriteEnds 2017-01-26 05:08:32
+BWHistoryDirWriteInterval 14400
+BWHistoryDirWriteValues 0
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastRotatedOnionKey 2017-01-26 01:08:32
+LastWritten 2017-01-26 01:21:07
+TotalBuildTimes 12
+CircuitBuildTimeBin 25 12

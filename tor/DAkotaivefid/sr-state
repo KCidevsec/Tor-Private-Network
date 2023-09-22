@@ -1,0 +1,11 @@
+# Tor shared random state file last generated on 2017-01-26 22:55:07 local time
+# Other times below are in UTC
+# Please *do not* edit this file.
+
+Version 1
+TorVersion 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+ValidAfter 2017-01-26 23:00:00
+ValidUntil 2017-01-27 00:00:00
+Commit 1 sha3-256 CC378E5BC0BFBDB15D76D11CCB9DBC759C2E00FC AAAAAFiKeGhKtTjF450L8ndTsPZhd5bkJRw4LCtcTf06A5xilrj3qw== AAAAAFiKeGg0maggn98wHVsyvweIw0kJ6noHik49NSLa7Ap3lKarTw==
+Commit 1 sha3-256 1CC9911362938E960BDDB4DD21011779333EC360 AAAAAFiKeGghlNz1XrOUptZhMm5LyVyrF7rJY+CbAtKt7Yj8A6Dv9g==
+Commit 1 sha3-256 EAD7F05A3225297B3BDD56CD1920499DEF3418DC AAAAAFiKeGjju0BViWuwsL50ng69yLrT8ChLWyq+9m7jd87bXnGe7A==

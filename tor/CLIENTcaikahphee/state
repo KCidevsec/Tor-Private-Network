@@ -1,0 +1,9 @@
+# Tor state file last generated on 2017-01-26 01:21:07 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard EXITezahxahcho 62754541810784DC0C8B8BECDC61F3D028F2AEDE DirCache
+EntryGuardDownSince 2017-01-26 01:20:39 2017-01-26 01:20:40
+EntryGuardAddedBy 62754541810784DC0C8B8BECDC61F3D028F2AEDE 0.2.9.0-alpha-dev 2017-01-11 11:20:48
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastWritten 2017-01-26 01:21:07

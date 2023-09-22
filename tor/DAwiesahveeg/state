@@ -1,0 +1,23 @@
+# Tor state file last generated on 2017-01-26 01:37:21 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+BWHistoryReadEnds 2017-01-26 05:26:20
+BWHistoryReadInterval 14400
+BWHistoryReadValues 100352
+BWHistoryReadMaxima 4096
+BWHistoryWriteEnds 2017-01-26 05:26:20
+BWHistoryWriteInterval 14400
+BWHistoryWriteValues 142336
+BWHistoryWriteMaxima 5120
+BWHistoryDirReadEnds 2017-01-26 05:26:20
+BWHistoryDirReadInterval 14400
+BWHistoryDirReadValues 54272
+BWHistoryDirReadMaxima 2048
+BWHistoryDirWriteEnds 2017-01-26 05:26:20
+BWHistoryDirWriteInterval 14400
+BWHistoryDirWriteValues 4096
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.9.0-alpha-dev (git-dffc6910b11d8854)
+LastRotatedOnionKey 2017-01-26 01:26:20
+LastWritten 2017-01-26 01:37:21
